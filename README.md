@@ -10,6 +10,7 @@ An interactive web application that uses TinyLlama via Ollama to automatically g
 ![Validation&Analysisss Screenshot](./screenshots/Validation&Analysis.png)
 ![AgentsworkinginTermianl Screenshot](./screenshots/AgentsworkinginTermianl.png)
 ![ollmaserversrunning Screenshot](./screenshots/ollmaserverss.png)
+![Video Screenshot](./screenshots/addtoggle.mov)
 
 
 
