@@ -2,6 +2,8 @@
 
 An interactive web application that uses TinyLlama via Ollama to automatically generate landing pages and forms based on natural language descriptions.
 
+## 📷 Screenshots
+
 ![Code Generator Screenshot](./screenshots/code-generator-screenshot.png)
 ![Frontend Screenshot](./screenshots/frontend.png)
 ![Landing page  Screenshot](./screenshots/CodePreview.png)
@@ -307,18 +309,7 @@ export default function App() {
 }
 ```
 
-## 📷 Screenshots
 
-### Main Interface
-![Main Interface](./screenshots/main-interface.png)
-
-### Code Generation Process
-![Code Generation](./screenshots/code-generation.png)
-
-### Live Preview
-![Live Preview](./screenshots/live-preview.png)
-
-## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
